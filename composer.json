@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Perrin\\CrudTest\\CrudTestServiceProvider"
+                "App\\Providers\\CrudTestServiceProvider"
             ]
         }
     },
